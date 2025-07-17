@@ -1,0 +1,66 @@
+
+Organización semántica
+
+    Usa etiquetas semánticas para estructurar el contenido de forma clara y precisa, por ejemplo:
+
+    section para diferentes secciones de la página
+
+    article para entradas de blog, noticias, etc.
+
+    aside para contenido secundario
+
+    figure para imágenes con leyendas
+
+    header y footer para encabezado y pie de página
+
+    main para el contenido principal
+    
+  Head
+
+    La etiqueta head debe de estar completa con todos los metadatos correctos, así como un favicon y un título adecuado a la temática escogida.
+    
+Contenido del body
+
+    Encabezado: Logotipo o imagen representativa
+    
+    Menú de navegación: De momento puede ser ficticio, pero debe de representar un contenido lógico para la aplicación. Por ejemplo: enlaces "falsos" o mediante id a contenido que aparece más adelante a lo largo de ella.
+    
+    Título principal de la página
+
+Pie de página
+
+    Incluye la siguiente información de manera completa o parcial:
+
+    Información de contacto
+
+    Copyright (ficticio)
+
+    Enlaces a redes sociales
+
+Formulario
+
+    Crea un formulario de contacto simple con los siguientes campos:
+
+    Nombre
+
+    Correo electrónico
+
+    Asunto
+
+    Mensaje
+
+    Valida los campos del formulario para evitar errores (opcional).
+
+    Otro tipo de formulario que se adecue a la temática también se dará por correcto.
+
+
+Exigencia
+
+    La página web debe ser accesible y navegable sin necesidad de CSS.
+
+    La estructura del código HTML debe ser clara, organizada y bien indentada. Puedes usar la extensión Prettier de VSCode para darle formato al documento. Para ello pulsa el segundo botón encima del código HTML en el programa, clica en "Dar formato al documento" y elige Prettier por defecto. Las próximas veces que des formato se hará automáticamente con esta extensión.
+
+    Usa comentarios para explicar el código y su organización si lo ves necesario.
+
+    Valida tu código HTML con un validador online.
+
